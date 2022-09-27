@@ -1,0 +1,46 @@
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println(
+                sumar(1 ,2 ,3));
+    }
+
+
+    static int sumar(int a, int b, int c) {
+        int resultado;
+        resultado = a + b + c;
+        return resultado;
+    }
+    public class coche {
+        int puertas;
+        puertas = 0;
+
+        static int agregar(int puertas, int a){
+            int incrementado;
+            incrementado= puertas +1;
+            return incrementado;
+
+
+        }
+
+
+
+    }
+
+    public class miCoche {
+        int puerta;
+
+
+       public miCoche(int  puerta){
+           this.puerta=1
+
+                   System.out.println(puerta);
+       }
+
+
+    }
+
+
+}
+
+
